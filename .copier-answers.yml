@@ -1,8 +1,0 @@
-# Do not edit - changes here will be overwritten by Copier
-_commit: v1
-_src_path: gh:tlambert03/pyrepo
-mode: simple
-module_name: PyQt6
-project_name: PyQt6-stubs
-project_short_description: Just type stubs for PyQt6
-
